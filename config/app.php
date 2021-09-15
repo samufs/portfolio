@@ -231,4 +231,9 @@ return [
 
     ],
 
+    'developer' => [
+        'name' => 'Samuel Falcón',
+        'email' => 's.falconsuarez@gmail.com',
+    ],
+
 ];
